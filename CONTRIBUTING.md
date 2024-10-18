@@ -42,3 +42,13 @@ To contribute, you'll need to set up a local development environment.
    # Example of installing dependencies for infrastructure
 # Make sure you have the necessary AWS CLI tools, eksctl, and kubectl installed.
 
+
+### Step 3: Commit the File
+1. Once you’ve added the content, scroll down to the bottom of the page.
+2. Add a commit message like `Create CONTRIBUTING.md`.
+3. Choose **Commit directly to the main branch** or create a new branch and start a pull request.
+4. Click **Commit new file**.
+
+This `CONTRIBUTING.md` will guide contributors through the process of contributing to your project!
+
+
