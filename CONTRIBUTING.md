@@ -38,3 +38,7 @@ To contribute, you'll need to set up a local development environment.
 1. Clone the repository:
    ```bash
    git clone https://github.com/PournimaTivatane12/EKS-Cluster-App-Deployment-w-Ingress.git
+
+   # Example of installing dependencies for infrastructure
+# Make sure you have the necessary AWS CLI tools, eksctl, and kubectl installed.
+
