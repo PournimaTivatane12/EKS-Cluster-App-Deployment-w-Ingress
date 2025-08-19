@@ -1,6 +1,9 @@
 # EKS-Cluster-App-Deployment-w-Ingress
 
 # 2048 Game
+# Architecture 
+<img width="825" height="832" alt="image" src="https://github.com/user-attachments/assets/7878f464-93d0-4146-8f53-003a035acb29" />
+
 
 Overview
 
